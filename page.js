@@ -5,7 +5,8 @@ xray('https://www.google.com/search?q=Starcraft', 'a',
 
 [{
  	a: '',
- 	href: '@href'
+ 	href: '@href',
+ 	css: '@class'
 
 }]
 ).write('results.json')

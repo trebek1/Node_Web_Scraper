@@ -1,360 +1,455 @@
 [
+
   {
-    "a": "Images",
-    "href": "https://www.google.com/search?q=Starcraft&um=1&ie=UTF-8&hl=en&tbm=isch&source=og&sa=N&tab=wi"
+    "rank": "1.",
+    "title": "Apprentice.at – Apprenticeships, not internships",
+    "link": "http://apprentice.at/"
   },
   {
-    "a": "Maps",
-    "href": "https://maps.google.com/maps?q=Starcraft&um=1&ie=UTF-8&hl=en&sa=N&tab=wl"
+    "rank": "2.",
+    "title": "Accessing unaligned memory",
+    "link": "http://fastcompression.blogspot.com/2015/08/accessing-unaligned-memory.html"
   },
   {
-    "a": "Play",
-    "href": "https://play.google.com/?q=Starcraft&um=1&ie=UTF-8&hl=en&sa=N&tab=w8"
+    "rank": "3.",
+    "title": "Dash: A side project to learn how to make a programming language in C",
+    "link": "http://dreamingofbits.com/dash-a-simple-programming-language-written-in-c"
   },
   {
-    "a": "YouTube",
-    "href": "https://www.youtube.com/results?q=Starcraft&um=1&ie=UTF-8&sa=N&tab=w1"
+    "rank": "4.",
+    "title": "The Glium Library – Safe OpenGL in Rust",
+    "link": "https://medium.com/@tomaka/the-glium-library-5be149d87dc1"
   },
   {
-    "a": "News",
-    "href": "https://news.google.com/nwshp?hl=en&tab=wn"
+    "rank": "5.",
+    "title": "Code Rush – The Beginnings of Netscape / Mozilla (2000) [video]",
+    "link": "https://www.youtube.com/watch?v=4Q7FTjhvZ7Y"
   },
   {
-    "a": "Gmail",
-    "href": "https://mail.google.com/mail/?tab=wm"
+    "rank": "6.",
+    "title": "LLVM Foundation Granted 501(c)(3) Nonprofit Status",
+    "link": "http://blog.llvm.org/2015/08/llvm-foundation-granted-501c3-nonprofit.html"
   },
   {
-    "a": "Drive",
-    "href": "https://drive.google.com/?tab=wo"
+    "rank": "7.",
+    "title": "Errors and Exceptions",
+    "link": "https://giantfublog.wordpress.com/2015/03/11/errors-and-exceptions/"
   },
   {
-    "a": "More »",
-    "href": "http://www.google.com/intl/en/options/"
+    "rank": "8.",
+    "title": "Real Life First Person Shooter, Chatroulette Version [video]",
+    "link": "https://www.youtube.com/watch?v=p747PrxmZJ4"
   },
   {
-    "a": "Web History",
-    "href": "http://www.google.com/history/optout?hl=en"
+    "rank": "9.",
+    "title": "Show HN: A collection of algorithmic art generated with POV-Ray",
+    "link": "https://mscharrer.net/povray/"
   },
   {
-    "a": "Settings",
-    "href": "https://www.google.com/preferences?hl=en"
+    "rank": "10.",
+    "title": "Designing and Building Stockfighter, Our Programming Game",
+    "link": "http://www.kalzumeus.com/2015/08/20/designing-and-building-stockfighter-our-programming-game/"
   },
   {
-    "a": "Sign in",
-    "href": "https://accounts.google.com/ServiceLogin?hl=en&continue=https://www.google.com/search%3Fq%3DStarcraft"
+    "rank": "11.",
+    "title": "Twitter Falls Below IPO Price as Concerns Mount Over CEO, Growth",
+    "link": "http://www.bloomberg.com/news/articles/2015-08-20/twitter-falls-below-ipo-price-as-concerns-mount-over-ceo-growth"
   },
   {
-    "href": "https://www.google.com/webhp?hl=en"
+    "rank": "12.",
+    "title": "Python Enhancement Proposal 495: Local Time Disambiguation",
+    "link": "https://www.python.org/dev/peps/pep-0495/"
   },
   {
-    "a": "Images",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnms&tbm=isch&sa=X&ved=0CAUQ_AVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "13.",
+    "title": "The Handmade Manifesto",
+    "link": "http://static.chronal.net/hmh/manifesto.html"
   },
   {
-    "a": "Videos",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnms&tbm=vid&sa=X&ved=0CAYQ_AVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "14.",
+    "title": "A visual proof that neural nets can compute any function",
+    "link": "http://neuralnetworksanddeeplearning.com/chap4.html"
   },
   {
-    "a": "News",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnms&tbm=nws&sa=X&ved=0CAcQ_AVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "15.",
+    "title": "Self-driving vehicle circles Waterloo campus",
+    "link": "https://uwaterloo.ca/stories/canadian-first-self-driving-vehicle-circles-waterloo-campus"
   },
   {
-    "a": "Shopping",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnms&tbm=shop&sa=X&ved=0CAgQ_AVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "16.",
+    "title": "Abandoning the Work I Hated",
+    "link": "http://opinionator.blogs.nytimes.com/2015/08/20/abandoning-the-work-i-hated/"
   },
   {
-    "a": "Maps",
-    "href": "https://maps.google.com/maps?q=Starcraft&um=1&ie=UTF-8&sa=X&ved=0CAkQ_AVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "17.",
+    "title": "The unique ecology of human predators",
+    "link": "http://www.sciencemag.org/content/349/6250/858.full"
   },
   {
-    "a": "Books",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnms&tbm=bks&sa=X&ved=0CAoQ_AVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "18.",
+    "title": "Exploring the Wreck of USS Macon, the Navy's Last Flying Aircraft Carrier",
+    "link": "http://news.usni.org/2015/08/19/exploring-the-wreck-of-uss-macon-the-navys-last-flying-aircraft-carrier"
   },
   {
-    "a": "Past hour",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnt&tbs=qdr:h&sa=X&ved=0CA8QpwVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "19.",
+    "title": "Debugging Lisp, Part 5",
+    "link": "http://malisper.me/2015/08/19/debugging-lisp-part-5-miscellaneous/"
   },
   {
-    "a": "Past 24 hours",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnt&tbs=qdr:d&sa=X&ved=0CA8QpwVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "20.",
+    "title": "Banksy Dismaland Show Revealed at Weston's Tropicana",
+    "link": "http://www.bbc.com/news/uk-england-bristol-33999495"
   },
   {
-    "a": "Past week",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnt&tbs=qdr:w&sa=X&ved=0CA8QpwVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "21.",
+    "title": "Counting Bloom Filter: Efficient d-left implementation in Go",
+    "link": "https://github.com/seiflotfy/dlCBF"
   },
   {
-    "a": "Past month",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnt&tbs=qdr:m&sa=X&ved=0CA8QpwVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "22.",
+    "title": "SmartAsset (YC S12) Looking for Data Scientist",
+    "link": "http://www.jobscore.com/jobs2/smartasset/data-scientist/czIKRsUsOr47SFeJe9fLhG"
   },
   {
-    "a": "Past year",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnt&tbs=qdr:y&sa=X&ved=0CA8QpwVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "23.",
+    "title": "The Second Coming of Deep Linking",
+    "link": "http://techcrunch.com/2015/08/20/the-second-coming-of-deep-linking/"
   },
   {
-    "a": "Verbatim",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=lnt&tbs=li:1&sa=X&ved=0CA8QpwVqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "24.",
+    "title": "New Book: Clojure Algorithms and Data Structures Cookbook",
+    "link": "http://www.clojure.tn/posts/20-08-2015-clojure-data-algos-book.html"
   },
   {
-    "a": "Brand new Starcraft game - Pre-purchase Legacy of the Void",
-    "href": "http://www.google.com/aclk?sa=l&ai=CGSq-u8zWVdWCN4-XpgPV6qbACKHO6t0GkfLI5LIC-YjEDQgAEAFgyfb4hsijoBmgAcfw28oDyAEBqgQfT9DDD0fkTzWNUDu_EQGGpyYJ6PbCPaRPUDHPIRXrVYAHoY-kNZAHAagHpr4b2AcB&sig=AOD64_0f3ad-SDGtBBQbmNQHY9qDB-N1-w&clui=0&ved=0CBIQ0QxqFQoTCL-F9qvNuccCFUuiiAodv1QEsw&adurl=https://bs.serving-sys.com/BurstingPipe/adServer.bs%3Fcn%3Dtf%26c%3D20%26mc%3Dclick%26pli%3D14099653%26PluID%3D0%26ord%3D%5Btimestamp%5D"
+    "rank": "25.",
+    "title": "VMware vs. bhyve Performance Comparison",
+    "link": "https://b3n.org/vmware-vs-bhyve-performance-comparison/"
   },
   {
-    "a": "Why this ad?",
-    "href": "https://www.google.com/url?q=/settings/ads/preferences%3Fhl%3Den&sa=U&ved=0CBUQgRNqFQoTCL-F9qvNuccCFUuiiAodv1QEsw&usg=AFQjCNEAXNOZ62ka46D3FTH_48RcIwnQgw"
+    "rank": "26.",
+    "title": "Subtraction = Growth",
+    "link": "http://subtractioncapital.com/subtraction-growth/"
   },
   {
-    "a": "StarCraft and Brood War Enlarged Map Images",
-    "href": "http://www.google.com/aclk?sa=l&ai=CwuKuu8zWVdWCN4-XpgPV6qbACKHO6t0GkfLI5LIC-YjEDQgAEAFgyfb4hsijoBmgAcfw28oDyAEBqgQfT9DDD0fkTzWNUDu_EQGGpyYJ6PbCPaRPUDHPIRXrVdIGBSiHreIEgAehj6Q1kAcBqAemvhvYBwE&sig=AOD64_1Tu-tG83m71fGdnvJ7VtzNn3L3mA&ctype=42&clui=1&ved=0CBYQgDxqFQoTCL-F9qvNuccCFUuiiAodv1QEsw&adurl=http://classic.battle.net/scc/lp/"
+    "rank": "27.",
+    "title": "Analysis of PS4's security and the state of hacking",
+    "link": "http://cturt.github.io/ps4.html"
   },
   {
-    "a": "StarCraft II Official Game Site",
-    "href": "/url?q=http://www.starcraft2.com/&sa=U&ved=0CBsQFjAAahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNFoir9F8drR5jyCzrrfRme2FSvk3A"
+    "rank": "28.",
+    "title": "How Thomas van Linge Mapped Islamic State",
+    "link": "http://www.spiegel.de/international/world/how-thomas-van-linge-mapped-islamic-state-a-1048665.html"
   },
   {
-    "a": "Cached",
-    "href": "/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:Rr2_Kb9ybOAJ:http://www.starcraft2.com/%252BStarcraft%26hl%3Den%26%26ct%3Dclnk&sa=U&ved=0CB4QIDAAahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNE7iKUZEyWFTN7m7ddRHrXE4iWWqA"
+    "rank": "29.",
+    "title": "Show HN: Nihongo – Study Japanese using authentic text from games, songs, etc.",
+    "link": "http://nihongo-app.com"
   },
   {
-    "a": "Similar",
-    "href": "https://www.google.com/search?ie=UTF-8&q=related:www.starcraft2.com/+Starcraft&tbo=1&sa=X&ved=0CB8QHzAAahUKEwi_hfarzbnHAhVLoogKHb9UBLM"
-  },
-  {
-    "a": "StarCraft - Wikipedia, the free encyclopedia",
-    "href": "/url?q=https://en.wikipedia.org/wiki/StarCraft&sa=U&ved=0CCEQFjABahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNER5OXQsFh4gI_rZ3b1THWWig-xtg"
-  },
+    "rank": "30.",
+    "title": "Fluentd: a high performance unified logging layer",
+    "link": "http://www.linux.com/news/enterprise/high-performance/147-high-performance/847237-fluentd-a-high-performance-unified-logging-layer"
+  }
+,
   {
-    "a": "Cached",
-    "href": "/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:Vr8sLT1JTSwJ:https://en.wikipedia.org/wiki/StarCraft%252BStarcraft%26hl%3Den%26%26ct%3Dclnk&sa=U&ved=0CCQQIDABahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNEHyYFBv3raIUeFC4qklRG_s-1kww"
+    "rank": "31.",
+    "title": "The Teflon Toxin Part 3: How DuPont Slipped Past the EPA",
+    "link": "https://firstlook.org/theintercept/2015/08/20/teflon-toxin-dupont-slipped-past-epa/"
   },
   {
-    "a": "StarCraft II: Wings of Liberty",
-    "href": "/url?q=https://en.wikipedia.org/wiki/StarCraft_II:_Wings_of_Liberty&sa=U&ved=0CCYQ0gIoADABahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNGGAsAr4N63KXZYAb_5G5yjl9Wo_w"
+    "rank": "32.",
+    "title": "There's More to Life Than Being Happy (2013)",
+    "link": "http://www.theatlantic.com/health/archive/2013/01/theres-more-to-life-than-being-happy/266805/?single_page=true"
   },
   {
-    "a": "StarCraft (series)",
-    "href": "/url?q=https://en.wikipedia.org/wiki/StarCraft_(series)&sa=U&ved=0CCcQ0gIoATABahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNGcW1EuTYE2hgqooH15DFWQWf8uzg"
+    "rank": "33.",
+    "title": "The Free Lunch Is Over: A Fundamental Turn Toward Concurrency in Software (2005)",
+    "link": "http://www.gotw.ca/publications/concurrency-ddj.htm"
   },
   {
-    "a": "Brood War",
-    "href": "/url?q=https://en.wikipedia.org/wiki/StarCraft:_Brood_War&sa=U&ved=0CCgQ0gIoAjABahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNHkB7E3TIE7fxnjvMVeBMTB7B3tNA"
+    "rank": "34.",
+    "title": "Organising unstructured networks (2004)",
+    "link": "http://paulbourke.net/miscellaneous/networkorder/"
   },
   {
-    "a": "Races",
-    "href": "/url?q=https://en.wikipedia.org/wiki/Races_of_StarCraft&sa=U&ved=0CCkQ0gIoAzABahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNEIy_oMsKo6w6xfeSurNfDZabY4ow"
+    "rank": "35.",
+    "title": "Writing code that writes code – Hack Codegen",
+    "link": "https://code.facebook.com/posts/1624644147776541/writing-code-that-writes-code-with-hack-codegen/"
   },
   {
-    "a": "Blizzard Entertainment:StarCraft II",
-    "href": "/url?q=http://www.starcraft.com/&sa=U&ved=0CCsQFjACahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNHJzF4Qx5F1X4yCjLlTo9V8_s8v9w"
+    "rank": "36.",
+    "title": "Image Scaling using Deep Convolutional Neural Networks",
+    "link": "http://engineering.flipboard.com/2015/05/scaling-convnets/"
   },
   {
-    "a": "Cached",
-    "href": "/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:t1j57UpaTMwJ:http://www.starcraft.com/%252BStarcraft%26hl%3Den%26%26ct%3Dclnk&sa=U&ved=0CC4QIDACahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNEo3iVamBX4_USRrP0g9PUsTZr_bQ"
+    "rank": "37.",
+    "title": "Humans, Shoes and eCommerce – The back story of Markhor (YC S15)",
+    "link": "https://medium.com/@waqasali/humans-shoes-and-ecommerce-807ae2159dd"
   },
   {
-    "a": "Similar",
-    "href": "https://www.google.com/search?ie=UTF-8&q=related:www.starcraft.com/+Starcraft&tbo=1&sa=X&ved=0CC8QHzACahUKEwi_hfarzbnHAhVLoogKHb9UBLM"
+    "rank": "38.",
+    "title": "Allen Newell: Desires and Diversions (1991) [video]",
+    "link": "https://www.youtube.com/watch?v=_sD42h9d1pk"
   },
   {
-    "a": "StarCraft II Official Game Site - Battle.net",
-    "href": "/url?q=http://eu.battle.net/sc2/en/&sa=U&ved=0CDEQFjADahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNHeABc5RAQN5JOekHOZj73Kdn8-3g"
+    "rank": "39.",
+    "title": "The Post-YC Slump",
+    "link": "http://blog.samaltman.com/the-post-yc-slump"
   },
   {
-    "a": "Cached",
-    "href": "/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:IfISWoDheEkJ:http://eu.battle.net/sc2/en/%252BStarcraft%26hl%3Den%26%26ct%3Dclnk&sa=U&ved=0CDQQIDADahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNG9p32gBUAosnT805jbn6JOAR1pIA"
+    "rank": "40.",
+    "title": "Netflix Fenzo: OSS Scheduler for Apache Mesos Frameworks",
+    "link": "http://techblog.netflix.com/2015/08/fenzo-oss-scheduler-for-apache-mesos.html"
   },
   {
-    "a": "Similar",
-    "href": "https://www.google.com/search?ie=UTF-8&q=related:eu.battle.net/sc2/en/+Starcraft&tbo=1&sa=X&ved=0CDUQHzADahUKEwi_hfarzbnHAhVLoogKHb9UBLM"
+    "rank": "41.",
+    "title": "Michael Crichton and Computers",
+    "link": "http://www.michaelcrichton.com/programmer/"
   },
   {
-    "a": "Images for Starcraft",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&tbm=isch&tbo=u&source=univ&sa=X&ved=0CDcQsARqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "42.",
+    "title": "Logical Increments – Computer parts picker",
+    "link": "http://www.logicalincrements.com/"
   },
   {
-    "href": "/url?q=https://en.wikipedia.org/wiki/StarCraft&sa=U&ved=0CDkQwW4wBGoVChMIv4X2q825xwIVS6KICh2_VASz&usg=AFQjCNER5OXQsFh4gI_rZ3b1THWWig-xtg"
+    "rank": "43.",
+    "title": "Science Crowdfunding Case Study: Sequencing Lil Bub's Genome",
+    "link": "https://experiment.com/case_studies/lilbub"
   },
   {
-    "href": "/url?q=http://us.blizzard.com/games/sc/&sa=U&ved=0CDsQwW4wBWoVChMIv4X2q825xwIVS6KICh2_VASz&usg=AFQjCNG7yUibWg2H5nDoQhZs99x3p18OFA"
+    "rank": "44.",
+    "title": "Are Lawyers Getting Dumber?",
+    "link": "http://www.bloomberg.com/news/features/2015-08-20/are-lawyers-getting-dumber-"
   },
   {
-    "href": "/url?q=http://starcraft.wikia.com/wiki/StarCraft_II&sa=U&ved=0CD0QwW4wBmoVChMIv4X2q825xwIVS6KICh2_VASz&usg=AFQjCNF9e7VwHXuF7ASDdTo_asb1OkSYEg"
+    "rank": "45.",
+    "title": "Rainforest QA (YC S12) Needs a Content Marketing Manager, Remote or SF",
+    "link": "https://www.rainforestqa.com/jobs/"
   },
   {
-    "href": "/url?q=http://us.blizzard.com/games/sc/&sa=U&ved=0CD8QwW4wB2oVChMIv4X2q825xwIVS6KICh2_VASz&usg=AFQjCNG7yUibWg2H5nDoQhZs99x3p18OFA"
+    "rank": "46.",
+    "title": "How the modern world came to recognize autistic people ",
+    "link": "http://www.wired.com/2015/08/neurotribes-with-steve-silberman/"
   },
   {
-    "a": "Blizzard Entertainment:StarCraft",
-    "href": "/url?q=http://us.blizzard.com/games/sc/&sa=U&ved=0CEEQFjAIahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNG7yUibWg2H5nDoQhZs99x3p18OFA"
+    "rank": "47.",
+    "title": "Virtual Structs Part 3: Bringing Enums and Structs Together",
+    "link": "http://smallcultfollowing.com/babysteps/blog/2015/08/20/virtual-structs-part-3-bringing-enums-and-structs-together/"
   },
   {
-    "a": "Cached",
-    "href": "/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:U8Z_eTwCcW4J:http://us.blizzard.com/games/sc/%252BStarcraft%26hl%3Den%26%26ct%3Dclnk&sa=U&ved=0CEQQIDAIahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNHt3azu28fYddH9_LSyOnClI_GKtw"
+    "rank": "48.",
+    "title": "China factory activity shrinks to six and a half year low as orders tumble",
+    "link": "http://www.reuters.com/article/2015/08/21/us-china-economy-pmi-idUSKCN0QQ05H20150821"
   },
   {
-    "a": "Similar",
-    "href": "https://www.google.com/search?ie=UTF-8&q=related:us.blizzard.com/games/sc/+Starcraft&tbo=1&sa=X&ved=0CEUQHzAIahUKEwi_hfarzbnHAhVLoogKHb9UBLM"
+    "rank": "49.",
+    "title": "The curious case of whistled languages and their lack of left-brain dominance",
+    "link": "http://arstechnica.com/science/2015/08/the-curious-case-of-whistled-languages-and-their-lack-of-left-brain-dominance/"
   },
   {
-    "a": "News for Starcraft",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&source=univ&tbm=nws&tbo=u&sa=X&ved=0CEcQqAJqFQoTCL-F9qvNuccCFUuiiAodv1QEsw"
+    "rank": "50.",
+    "title": "The age of the universe",
+    "link": "http://www.symmetrymagazine.org/article/august-2015/the-age-of-the-universe"
   },
   {
-    "href": "/url?q=http://kotaku.com/starcraft-ii-is-finally-getting-tournaments-1725365349&sa=U&ved=0CEgQpwJqFQoTCL-F9qvNuccCFUuiiAodv1QEsw&usg=AFQjCNHaH0kFnNnHAjapVeQi8qmYV9PPwg"
+    "rank": "51.",
+    "title": "With $100M in Funding, Carbon3D Will Make 3D Manufacturing a Reality",
+    "link": "http://techcrunch.com/2015/08/20/with-100m-in-funding-carbon3d-will-make-3d-manufacturing-a-reality/"
   },
   {
-    "a": "StarCraft II Is (Finally) Getting Tournaments",
-    "href": "/url?q=http://kotaku.com/starcraft-ii-is-finally-getting-tournaments-1725365349&sa=U&ved=0CEoQqQIwCWoVChMIv4X2q825xwIVS6KICh2_VASz&usg=AFQjCNHaH0kFnNnHAjapVeQi8qmYV9PPwg"
+    "rank": "52.",
+    "title": "The math behind RSA encryption",
+    "link": "http://sevko.io/articles/rsa/"
   },
   {
-    "a": "Automated Tournaments Coming to Beta - StarCraft II",
-    "href": "/url?q=http://us.battle.net/sc2/en/blog/19840424/automated-tournaments-coming-to-beta-8-19-2015&sa=U&ved=0CEwQqQIwCmoVChMIv4X2q825xwIVS6KICh2_VASz&usg=AFQjCNEJV6aFV-oouT9BH-P8Myb4gtrpYQ"
+    "rank": "53.",
+    "title": "An Introduction to Sine-Wave Speech (2007)",
+    "link": "http://www.mrc-cbu.cam.ac.uk/people/matt.davis/sine-wave-speech/"
   },
   {
-    "a": "How To Make Incredible StarCraft Cosplay",
-    "href": "/url?q=http://kotaku.com/how-to-make-incredible-starcraft-cosplay-1725012630&sa=U&ved=0CE4QqQIwC2oVChMIv4X2q825xwIVS6KICh2_VASz&usg=AFQjCNEvOAXmyuea3iwnLsGegrQYM3QT5w"
+    "rank": "54.",
+    "title": "The Completely Different World of Python with IBM i",
+    "link": "http://www.ibmsystemsmag.com/ibmi/developer/general/different-world-python"
   },
   {
-    "a": "StarCraft - YouTube",
-    "href": "/url?q=https://www.youtube.com/user/starcraft&sa=U&ved=0CFAQFjAMahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNGTRsp8Zi0uxZlZlRTWLckMT7-_kQ"
+    "rank": "55.",
+    "title": "Obstacles to Developing Cost-Lowering Health Technology: The Inventor’s Dilemma",
+    "link": "http://jama.jamanetwork.com/article.aspx?articleID=2429454"
   },
   {
-    "a": "Cached",
-    "href": "/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:Eqa1O9nEQfMJ:https://www.youtube.com/user/starcraft%252BStarcraft%26hl%3Den%26%26ct%3Dclnk&sa=U&ved=0CFMQIDAMahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNGBH1C7KRJ9CdSWQ2SRzVzpNG4CCg"
+    "rank": "56.",
+    "title": "FAA records detail hundreds of close calls between airplanes and drones",
+    "link": "https://www.washingtonpost.com/world/national-security/faa-records-detail-hundreds-of-close-calls-between-airplanes-and-drones/2015/08/20/5ef812ae-4737-11e5-846d-02792f854297_story.html"
   },
   {
-    "a": "Similar",
-    "href": "/search?ie=UTF-8&q=related:https://www.youtube.com/user/starcraft+Starcraft&tbo=1&sa=X&ved=0CFQQHzAMahUKEwi_hfarzbnHAhVLoogKHb9UBLM"
+    "rank": "57.",
+    "title": "How Zapier Went from Zero to 600k Users",
+    "link": "https://www.groovehq.com/blog/zapier-interview-with-wade-foster"
   },
   {
-    "a": "StarCraft | Facebook",
-    "href": "/url?q=https://www.facebook.com/StarCraft&sa=U&ved=0CFYQFjANahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNHFtiP-McChumDFRFvdh8Nqp8Lptw"
+    "rank": "58.",
+    "title": "Rb: A Redis parallelization toolkit for Python",
+    "link": "http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html"
   },
   {
-    "a": "Cached",
-    "href": "/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:on7wj5CZGmAJ:https://www.facebook.com/StarCraft%252BStarcraft%26hl%3Den%26%26ct%3Dclnk&sa=U&ved=0CFkQIDANahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNEVbqV1NQQjJjIywvgbA0Ud6MZJDw"
+    "rank": "59.",
+    "title": "Imba – A new programming language for the web",
+    "link": "http://imba.io/"
   },
   {
-    "a": "Similar",
-    "href": "/search?ie=UTF-8&q=related:https://www.facebook.com/StarCraft+Starcraft&tbo=1&sa=X&ved=0CFoQHzANahUKEwi_hfarzbnHAhVLoogKHb9UBLM"
-  },
+    "rank": "60.",
+    "title": "When cultural heritage gets a digital life",
+    "link": "http://blog.wikimedia.org/2015/08/20/digital-life-of-cultural-heritage/"
+  }
+,
   {
-    "a": "StarCraft (@StarCraft) | Twitter",
-    "href": "/url?q=https://twitter.com/starcraft&sa=U&ved=0CFwQFjAOahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNHbypHVtgaGvl5fEfxA9UW37z8GoA"
+    "rank": "61.",
+    "title": "Show HN: 10HN – Top articles from HN served every morning and every evening",
+    "link": "http://top10.pancik.com/"
   },
   {
-    "a": "Cached",
-    "href": "/url?q=http://webcache.googleusercontent.com/search%3Fq%3Dcache:aR-eykc76ScJ:https://twitter.com/starcraft%252BStarcraft%26hl%3Den%26%26ct%3Dclnk&sa=U&ved=0CF8QIDAOahUKEwi_hfarzbnHAhVLoogKHb9UBLM&usg=AFQjCNElpKsUFHlNb-gcUEx3Irt_-s1aLA"
+    "rank": "62.",
+    "title": "Parsing Mach-O files",
+    "link": "http://lowlevelbits.org/parse-mach-o-files/"
   },
   {
-    "a": "Similar",
-    "href": "/search?ie=UTF-8&q=related:https://twitter.com/starcraft+Starcraft&tbo=1&sa=X&ved=0CGAQHzAOahUKEwi_hfarzbnHAhVLoogKHb9UBLM"
+    "rank": "63.",
+    "title": "The Tinkerings of Robert Noyce (1983) [pdf]",
+    "link": "http://www.brightboys.org/PDF/Wolfe_Noyce.pdf"
   },
   {
-    "a": "starcraft 2",
-    "href": "https://www.google.com/search?ie=UTF-8&q=starcraft+2&revid=2108816933&sa=X&ved=0CGMQ1QIoAGoVChMIv4X2q825xwIVS6KICh2_VASz"
+    "rank": "64.",
+    "title": "Computers Are Showing Their Biases, and Tech Firms Are Concerned",
+    "link": "http://www.wsj.com/articles/computers-are-showing-their-biases-and-tech-firms-are-concerned-1440102894"
   },
   {
-    "a": "starcraft 2 heart of the swarm",
-    "href": "https://www.google.com/search?ie=UTF-8&q=starcraft+2+heart+of+the+swarm&revid=2108816933&sa=X&ved=0CGQQ1QIoAWoVChMIv4X2q825xwIVS6KICh2_VASz"
+    "rank": "65.",
+    "title": "From Retail Palace to Zombie Mall: How Efficiency Killed the Department Store",
+    "link": "http://www.collectorsweekly.com/articles/how-efficiency-killed-the-department-store/"
   },
   {
-    "a": "starcraft download",
-    "href": "https://www.google.com/search?ie=UTF-8&q=starcraft+download&revid=2108816933&sa=X&ved=0CGUQ1QIoAmoVChMIv4X2q825xwIVS6KICh2_VASz"
+    "rank": "66.",
+    "title": "The Case for Complex Dark Matter",
+    "link": "https://www.quantamagazine.org/20150820-the-case-for-complex-dark-matter/"
   },
   {
-    "a": "starcraft wiki",
-    "href": "https://www.google.com/search?ie=UTF-8&q=starcraft+wiki&revid=2108816933&sa=X&ved=0CGYQ1QIoA2oVChMIv4X2q825xwIVS6KICh2_VASz"
+    "rank": "67.",
+    "title": "Go, D, Erlang and C in real life: MQTT broker implementation shootout (2013)",
+    "link": "https://atilanevesoncode.wordpress.com/2013/12/05/go-vs-d-vs-erlang-vs-c-in-real-life-mqtt-broker-implementation-shootout/"
   },
   {
-    "a": "starcraft boats",
-    "href": "https://www.google.com/search?ie=UTF-8&q=starcraft+boats&revid=2108816933&sa=X&ved=0CGcQ1QIoBGoVChMIv4X2q825xwIVS6KICh2_VASz"
+    "rank": "68.",
+    "title": "The Oral History of the Launch of Epicurious",
+    "link": "http://www.epicurious.com/about/epicurious-oral-history-article"
   },
   {
-    "a": "starcraft trailers",
-    "href": "https://www.google.com/search?ie=UTF-8&q=starcraft+trailers&revid=2108816933&sa=X&ved=0CGgQ1QIoBWoVChMIv4X2q825xwIVS6KICh2_VASz"
+    "rank": "69.",
+    "title": "Fast wildcard searches with trigrams",
+    "link": "http://www.mattwarren.org/2015/08/19/the-stack-overflow-tag-engine-part-2/"
   },
   {
-    "a": "starcraft campers",
-    "href": "https://www.google.com/search?ie=UTF-8&q=starcraft+campers&revid=2108816933&sa=X&ved=0CGkQ1QIoBmoVChMIv4X2q825xwIVS6KICh2_VASz"
+    "rank": "70.",
+    "title": "Heap (YC W13) is hiring engineers to build the future of analytics",
+    "link": "https://heapanalytics.com/jobs#engineer"
   },
   {
-    "a": "starcraft cheats",
-    "href": "https://www.google.com/search?ie=UTF-8&q=starcraft+cheats&revid=2108816933&sa=X&ved=0CGoQ1QIoB2oVChMIv4X2q825xwIVS6KICh2_VASz"
+    "rank": "71.",
+    "title": "Doing Science On The Web: A way to launch experimental features",
+    "link": "https://infrequently.org/2015/08/doing-science-on-the-web/"
   },
   {
-    "a": "2",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=10&sa=N"
+    "rank": "72.",
+    "title": "Abandoning the Work I Hated",
+    "link": "http://opinionator.blogs.nytimes.com/2015/08/20/abandoning-the-work-i-hated"
   },
   {
-    "a": "3",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=20&sa=N"
+    "rank": "73.",
+    "title": "Srandom: Fast /dev/urandom PRNG",
+    "link": "https://github.com/josenk/srandom"
   },
   {
-    "a": "4",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=30&sa=N"
+    "rank": "74.",
+    "title": "HTTP/2 technology demo",
+    "link": "http://www.http2demo.io/"
   },
   {
-    "a": "5",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=40&sa=N"
+    "rank": "75.",
+    "title": "Introducing Improved Performance Dynos",
+    "link": "http://blog.heroku.com/archives/2015/8/20/introducing-improved-performance-dynos"
   },
   {
-    "a": "6",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=50&sa=N"
+    "rank": "76.",
+    "title": "Lessons Learned from Reading Post Mortems",
+    "link": "http://danluu.com/postmortem-lessons/"
   },
   {
-    "a": "7",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=60&sa=N"
+    "rank": "77.",
+    "title": "A quick look at the Win2k source (2004)",
+    "link": "http://www.kuro5hin.org/story/2004/2/15/71552/7795"
   },
   {
-    "a": "8",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=70&sa=N"
+    "rank": "78.",
+    "title": "The War on Drugs and Prison Growth: Limited importance and legislative options [pdf]",
+    "link": "http://harvardjol.com/wp-content/uploads/2015/06/HLL104_crop1.pdf"
   },
   {
-    "a": "9",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=80&sa=N"
+    "rank": "79.",
+    "title": "Show HN: Caman – A self-signing certificate authority manager",
+    "link": "https://github.com/radiac/caman"
   },
   {
-    "a": "10",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=90&sa=N"
+    "rank": "80.",
+    "title": "Citi Overlooked a Few Thousand Illegal Trades",
+    "link": "http://www.bloombergview.com/articles/2015-08-20/citi-overlooked-a-few-thousand-illegal-trades"
   },
   {
-    "a": "Next",
-    "href": "https://www.google.com/search?q=Starcraft&ie=UTF-8&prmd=ivns&ei=u8zWVf-7NMvEogS_qZGYCw&start=10&sa=N"
+    "rank": "81.",
+    "title": "Is a Cambrian Explosion Coming for Robotics?",
+    "link": "http://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.29.3.51"
   },
   {
-    "a": "Advanced search",
-    "href": "https://www.google.com/advanced_search?q=Starcraft&ie=UTF-8&prmd=ivns"
+    "rank": "82.",
+    "title": "Jeb Bush wants “a new arrangement with Silicon Valley” to ease crypto",
+    "link": "http://arstechnica.com/tech-policy/2015/08/jeb-bush-crypto-makes-it-harder-for-the-american-government-to-do-its-job/"
   },
   {
-    "a": "Search Help",
-    "href": "https://www.google.com/support/websearch/bin/answer.py?answer=134479&hl=en"
+    "rank": "83.",
+    "title": "Countries where flying is dangerous",
+    "link": "http://www.economist.com/blogs/graphicdetail/2015/08/aviation-safety"
   },
   {
-    "a": "Send feedback",
-    "href": "https://www.google.com/tools/feedback/survey/html?productId=196&query=Starcraft&hl=en"
+    "rank": "84.",
+    "title": "In search of performance – how we shaved 200ms off every POST request",
+    "link": "https://gocardless.com/blog/in-search-of-performance-how-we-shaved-200ms-off-every-post-request/"
   },
   {
-    "a": "Google Home",
-    "href": "https://www.google.com/"
+    "rank": "85.",
+    "title": "Bonsai: Bulletproof contracts, simple e-signing, escrow for freelancers",
+    "link": "https://www.hellobonsai.com/"
   },
   {
-    "a": "Advertising Programs",
-    "href": "https://www.google.com/intl/en/ads"
+    "rank": "86.",
+    "title": "Traps detection during migration of C and C++ code to 64-bit Windows",
+    "link": "https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4"
   },
   {
-    "a": "Business Solutions",
-    "href": "https://www.google.com/services"
+    "rank": "87.",
+    "title": "New data from Antarctic detector firms up cosmic neutrino sighting",
+    "link": "http://news.wisc.edu/23954"
   },
   {
-    "a": "Privacy",
-    "href": "https://www.google.com/intl/en/policies/privacy/"
+    "rank": "88.",
+    "title": "Lazy load responsive images",
+    "link": "https://github.com/ivopetkov/responsively-lazy"
   },
   {
-    "a": "Terms",
-    "href": "https://www.google.com/intl/en/policies/terms/"
+    "rank": "89.",
+    "title": "German email services GMX and web.de provide end-to-end encryption",
+    "link": "https://translate.google.com/translate?hl=en&sl=de&tl=en&u=http%3A%2F%2Fwww.zdnet.de%2F88244541%2Fweb-de-und-gmx-fuehren-ende-zu-ende-verschluesselung-per-pgp-fuer-e-mails-ein%2F%3FPageSpeed%3Dnoscript"
   },
   {
-    "a": "About Google",
-    "href": "https://www.google.com/intl/en/about.html"
+    "rank": "90.",
+    "title": "Padlet (YC W13) is looking for a Head of Design",
+    "link": "https://news.ycombinator.com/item?id=10093858"
   }
 ]
