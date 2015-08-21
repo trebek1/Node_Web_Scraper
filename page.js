@@ -1,9 +1,11 @@
 var Xray = require('x-ray');
 var xray = new Xray(); 
 
-xray('http://google.com', 'a',
+xray('https://www.google.com/search?q=Starcraft', 'a',
 
 [{
-	a: ''
+ 	a: '',
+ 	href: '@href'
+
 }]
 ).write('results.json')
